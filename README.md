@@ -6,6 +6,7 @@ Git is a distributed Version Control System (VCS), which means it is a useful to
 
 GitHub is a way to use the same power of Git all online with an easy-to-use interface. It’s used across the software world and beyond to collaborate and maintain the history of projects.
 
+
 GitHub is home to some of the most advanced technologies in the world. Whether you're visualizing data or building a new game, there's a whole community and set of tools on GitHub that can get you to the next step.
 
 ## Tasks
@@ -25,8 +26,13 @@ Depending on your OS, installing git may look different. Look at https://git-scm
 ## Create an account for Github
 https://github.com/join
 
-## Clone the repository
+## Fork the repository
 Run `git clone https://github.com/MarlonGamez/cs2-github-intro.git` to clone the repository to your machine. This will copy the repository to your machine so you can work with it locally :)
+![Screen Shot 2022-10-19 at 12 40 59 PM](https://user-images.githubusercontent.com/12601690/196776867-0abefcb8-5dce-4a28-ab38-2afa2a0438a1.png)
+You can see the fork button in the screenshot
+
+## Clone the repository
+Run `git clone https://github.com/YOUR_GITHUB_USERNAME/cs2-github-intro.git` to clone the repository to your machine. This will copy the repository to your machine so you can work with it locally :)
 
 ## Create a new branch
 Run `git checkout -b YOUR_BRANCH_NAME` to create a new branch to work on. Replace `YOUR_BRANCH_NAME` with whatever you'd like to call your branch.
